@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bank_Management_System.BL.Bank" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAQABAAAIAAAAAAAAAAAAAAAEAAAAAAIQAAQAAAAA=</HashCode>
+      <FileName>BL\Bank.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Bank_Management_System.BL.Credential">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAEAAAAAAAACAAAAAgAAAAA=</HashCode>
+      <FileName>BL\Credential.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bank_Management_System.BL.Customer">
+    <Position X="10.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAIAAAAAAEAQQAAAAIQAAACEAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>BL\Customer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.117" />
+  </Class>
+  <Class Name="Bank_Management_System.BL.Employee">
+    <Position X="14.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAgQAAAAEAAAAQAABAEAAAAAAAAAQAAAQE=</HashCode>
+      <FileName>BL\Employee.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1" />
+  </Class>
+  <Class Name="Bank_Management_System.DL.BankDL" Collapsed="true">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAEAIEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DL\BankDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bank_Management_System.DL.CustomerDL">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEACAAAAAABgAAAAAAAAAAAAAAAAAAAAEAAAQAAAEA=</HashCode>
+      <FileName>DL\CustomerDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bank_Management_System.DL.EmployeeDL">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAADAAAIgAAAAAAAAAACAAAIAEEAAAAAA=</HashCode>
+      <FileName>DL\EmployeeDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Bank_Management_System.BL.iBank">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQABAAAIAAAAAAAAAAAAAAAEAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>BL\Bank.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Bank_Management_System.BL.iCustomer">
+    <Position X="10.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Bank_Management_System.BL.iEmployee">
+    <Position X="14.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>BL\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
