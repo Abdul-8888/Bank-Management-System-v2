@@ -1,6 +1,0 @@
-awa11,pf,Awais,45,500000,14
-mai22,oop,Maida,20,300000,8
-abd113,unity,Abdul,18,10000,8
-aft115,web,Aftab,35,80000,7
-jaw149,web,Jawad,40,35000,12
-dan123,va,Danish,13,100,1
